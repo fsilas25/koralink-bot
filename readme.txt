@@ -14,7 +14,6 @@ Technology Stack:
 -----------------
 - Python
 - Flask
-- ChatterBot
 - HTML
 - CSS
 - JavaScript
@@ -51,7 +50,7 @@ Installation:
 
    python -m spacy download en_core_web_sm
 
-5. Train the chatbot and Run the Flask server:
+5. Train the chatbot on flask Run the Flask server:
 
    python app.py
 
